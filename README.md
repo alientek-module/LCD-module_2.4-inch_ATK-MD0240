@@ -4,9 +4,9 @@
 
 The ATK-MD0240 module looks like this:
 
-![](figures/01_ATK_MC0240_Module_01.png)
+![](1_docs/3_figures/01_ATK_MC0240_Module_01.png)
 
-![](figures/01_ATK_MC0240_Module_02.png)
+![](1_docs/3_figures/01_ATK_MC0240_Module_02.png)
 
 ### 1.2 Features
 
@@ -78,4 +78,4 @@ The ATK-MD0240 module is connected to the external circuit through a 32 Pin FPC 
 
 The schematic diagram of the ATK-MD0240 module is shown as follows.
 
-![](figures/02_ATK_MC0240_SCH.png)
+![](1_docs/3_figures/02_ATK_MC0240_SCH.png)
